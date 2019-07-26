@@ -6,7 +6,7 @@ In a 1 000 000 x 1 000 000 matrix, where only 5 elements are different than zero
 This type of matrix is used a lot in math and physics with real world applications specially in the climate area, there they deal a lot with huge calculations.
 It makes sense that storing huge amounts of data, should be done as efficiently as possible.
 ```
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/pedromartins200/SparseMatrix/blob/master/sparse_matrix.png)
 ```
 
 # My implementation
